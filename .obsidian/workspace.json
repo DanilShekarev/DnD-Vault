@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "00d4811001fbb649",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f48f5cdb0100f30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71223a9024a7fb75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bb4516961aad789",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e647304581ceecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8355cfe881483c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8ac10306038a943f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f060aab4ea5952fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "868eb77b469558b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "40749206ae398d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f657fbc11ac48ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "52b8f2fe4de0b56b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "ae768458e7d6e0e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ad41ed012f39410a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "6d0b46990ea435b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "71223a9024a7fb75",
+  "lastOpenFiles": [
+    "Локации/Рит'Акар.md",
+    "Сюжет/Восстание нежити.md",
+    "Персонажи/Люсиль.md",
+    "Сессии/Сессия 07.md",
+    "_Глоссарий.md.tmp.25492.1143cc197c28",
+    "_Глоссарий.md.tmp.25492.5a7cd4188b1c",
+    "00 Старт.md.tmp.25492.ee7d62e5a3fe",
+    "Локации/Медмайн.md.tmp.25492.6dda0479c597",
+    "Локации/Медмайн.md.tmp.25492.6e970d949922",
+    "Сессии/Сессия 02.md.tmp.25492.12d45859c71a",
+    "NPC/Галейн.md.tmp.25492.c2814d8ed2ae",
+    "Локации/Бакерт.md.tmp.25492.a005891c0683",
+    "Локации/Бакерт.md.tmp.25492.b2035c94b184",
+    "Сессии/Сессия 01.md.tmp.25492.ad10756dcf4b",
+    "NPC/Синкрад.md",
+    "NPC/Селена.md",
+    "Сюжет/Завеса между мирами.md",
+    "Сессии/Сессия 06.md",
+    "Сессии/Сессия 05.md",
+    "Сессии/Сессия 04.md",
+    "Сессии/Сессия 03.md",
+    "Сессии/Сессия 02.md",
+    "Сессии/Сессия 01.md",
+    "Сюжет/Фрагменты ключа и Пурпурная башня.md",
+    "Сюжет/Сны и кристалл.md",
+    "Сюжет/Прошлое Лихта.md",
+    "Сюжет/Порча лесов.md",
+    "Существа/Рыболюди.md",
+    "Существа/Нежить.md",
+    "Существа/Древесные волки.md",
+    "Предметы/Фрагмент ключа.md",
+    "Предметы/Брошь Аизы.md",
+    "Локации/Хелмнт.md",
+    "Локации/Пивные шахты.md",
+    "Локации/Острые лозы.md",
+    "Локации/Медмайн.md"
+  ]
+}
