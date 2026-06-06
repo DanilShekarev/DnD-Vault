@@ -11,10 +11,14 @@
             "id": "71223a9024a7fb75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Глоссарий.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "_Глоссарий"
             }
           }
         ]
@@ -176,8 +180,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8355cfe881483c42",
+  "active": "71223a9024a7fb75",
   "lastOpenFiles": [
+    "00 Старт.md",
     "00 Старт.md.tmp.3040.745911fdebd0",
     "Персонажи/Люсиль.md.tmp.3040.0106091a34f4",
     "_Глоссарий.md.tmp.3040.db05ecba1c2a",
@@ -189,7 +194,6 @@
     "NPC/Селена.md.tmp.3040.eae36892edb4",
     "NPC/Селена.md.tmp.3040.ec18fec2bc6b",
     "NPC/Могрус.md",
-    "NPC/Могрус.md.tmp.3040.1be83620ac41",
     "Сессии/Сессия 00.md",
     "NPC/Детрелон.md",
     "Локации/Рит'Акар.md",
