@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a4408f1b514025b",
+        "id": "92cfccb1089e83e7",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3036ff2a319539",
+            "id": "a6a7839ccc3cc275",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,13 +176,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8355cfe881483c42",
+  "active": "a6a7839ccc3cc275",
   "lastOpenFiles": [
+    "00 Старт.md",
     "Боги и фракции/Хишат.md",
     "Боги и фракции/Война с демонами.md",
     "NPC/Синкрад.md",
     "_Глоссарий.md",
-    "00 Старт.md",
     "_Глоссарий.md.tmp.3040.f3da4d9a2a96",
     "00 Старт.md.tmp.3040.3e55fd681e6c",
     "NPC/Жефри.md.tmp.3040.c6a22a1df18a",
