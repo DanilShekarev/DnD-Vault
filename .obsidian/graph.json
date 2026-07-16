@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#npc OR tag:#pc",
+  "collapse-filter": true,
+  "search": "-tag:#changelog -tag:#сессия  -tag:#служебное  -tag:#дашборд  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.203125,
-  "repelStrength": 11.875,
-  "linkStrength": 0.796875,
-  "linkDistance": 250,
-  "scale": 0.5087618855792667,
+  "collapse-forces": false,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 16.7708333333333,
+  "linkStrength": 0.71875,
+  "linkDistance": 500,
+  "scale": 0.09392927902847333,
   "close": false
 }
