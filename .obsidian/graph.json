@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-tag:#changelog -tag:#сессия  -tag:#служебное  -tag:#дашборд  ",
+  "collapse-filter": false,
+  "search": "-tag:#changelog -tag:#сессия  -tag:#служебное  -tag:#дашборд  -tag:#moc -tag:#глава -tag:#карта",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.7291666666667,
   "linkStrength": 0.802083333333333,
   "linkDistance": 30,
-  "scale": 0.3628873693012374,
+  "scale": 0.7132754626225043,
   "close": false
 }
